@@ -9,3 +9,6 @@
 ![pygame1](https://user-images.githubusercontent.com/44469087/88173973-1544ea80-cc41-11ea-8e66-90cd4f15c46a.png)
 
 # Heath of player after first round : 
+
+![pygames2](https://user-images.githubusercontent.com/44469087/88174109-550bd200-cc41-11ea-9ff6-abc5344c2cb3.png)
+
